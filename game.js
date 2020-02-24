@@ -60,7 +60,7 @@ var cube = document.getElementById("cube");
 var container = document.getElementById("container");
 var cubeLeft = 0; // horizontal movement
 var cubeTop = 0; // vertical movement
-var speed = 0.5;
+var speed = 1;
 var gameCube = new Cube();
 var move;
 
